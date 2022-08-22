@@ -1,5 +1,7 @@
 package ru.job4j.domain;
 
+import lombok.Getter;
+
 import javax.persistence.*;
 import java.util.Objects;
 
